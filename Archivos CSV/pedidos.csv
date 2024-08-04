@@ -1,0 +1,2 @@
+usuario,carrito,total,metodo_pago,estado
+"{'nombre': 'bet', 'apellido': 'sanchez', 'email': 'bet@sanchez.com', 'rol': 'cliente', 'password': 'bet123456'}","{'items': [{'producto': {'id': 5, 'nombre': 'Café Et�\xadope', 'descripcion': 'Café de sabor complejo con notas de frutas y flores', 'precio': 12.0, 'cantidad': 130}, 'cantidad': 2}]}",24.0,tarjeta,Confirmado

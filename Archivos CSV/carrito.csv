@@ -1,0 +1,3 @@
+producto,cantidad
+"{'id': 1, 'nombre': 'Café Arábica', 'descripcion': 'Café suave y aromático', 'precio': 10.0, 'cantidad': 100}",18
+"{'id': 3, 'nombre': 'Café de Hoya', 'descripcion': 'Café fuerte y aromático', 'precio': 9.0, 'cantidad': 150}",13

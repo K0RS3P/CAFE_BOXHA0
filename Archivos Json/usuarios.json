@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Pedrito",
+            "apellido": "Eugenio",
+            "email": "juan@example.com",
+            "rol": "cliente",
+            "password": "123456"
+        },
+        {
+            "nombre": "Cangrejo",
+            "apellido": "Eugenio",
+            "email": "cangrejo@example.com",
+            "rol": "admin",
+            "password": "angrejo123"
+        },
+        {
+            "nombre": "cristian",
+            "apellido": "gomez",
+            "email": "c@c.com",
+            "rol": "cliente",
+            "password": "123456"
+        }
+    ]
+}

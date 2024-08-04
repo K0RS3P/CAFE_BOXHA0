@@ -1,0 +1,10 @@
+Comprobante de Pago
+===================
+Nombre: perlaaaa
+Email: per@p.com
+Total: $(107.10000000000001, 11.9, 119.00000000000001)
+MÈtodo de Pago: efectivo
+Estado: Confirmado
+
+Productos:
+ - Caf√© Latte x 14 = $119.0

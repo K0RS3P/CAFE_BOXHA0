@@ -1,0 +1,30 @@
+{
+    "pedidos": [
+        {
+            "usuario": {
+                "nombre": "miriam",
+                "apellido": "",
+                "email": "miriam@morales.com",
+                "rol": "cliente",
+                "password": ""
+            },
+            "carrito": {
+                "items": [
+                    {
+                        "producto": {
+                            "id": 1,
+                            "nombre": "Caf\u00c3\u00a9 Ar\u00c3\u00a1bica",
+                            "descripcion": "Caf\u00c3\u00a9 suave y arom\u00c3\u00a1tico",
+                            "precio": 18.0,
+                            "cantidad": 160
+                        },
+                        "cantidad": 12
+                    }
+                ]
+            },
+            "total": 216.0,
+            "metodo_pago": "efectivo",
+            "estado": "Confirmado"
+        }
+    ]
+}

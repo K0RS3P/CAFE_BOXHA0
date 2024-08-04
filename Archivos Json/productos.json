@@ -1,0 +1,74 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Caf\u00c3\u00a9 de Olla",
+            "descripcion": "Caf\u00c3\u00a9 tradicional mexicano cocido con canela y piloncillo, preparado en una olla de barro.",
+            "precio": 8.0,
+            "cantidad": 100
+        },
+        {
+            "id": 2,
+            "nombre": "Caf\u00c3\u00a9 con Leche",
+            "descripcion": "Caf\u00c3\u00a9 preparado con una cantidad generosa de leche caliente, muy popular en el desayuno.",
+            "precio": 7.5,
+            "cantidad": 100
+        },
+        {
+            "id": 3,
+            "nombre": "Caf\u00c3\u00a9 de Chiapas",
+            "descripcion": "Caf\u00c3\u00a9 con un perfil suave y notas de chocolate, caracter\u00c3\u00adstico de la regi\u00c3\u00b3n de Chiapas.",
+            "precio": 10.0,
+            "cantidad": 150
+        },
+        {
+            "id": 4,
+            "nombre": "Caf\u00c3\u00a9 de Veracruz",
+            "descripcion": "Caf\u00c3\u00a9 con notas afrutadas y un perfil suave, t\u00c3\u00adpico de la regi\u00c3\u00b3n costera de Veracruz.",
+            "precio": 11.0,
+            "cantidad": 122
+        },
+        {
+            "id": 5,
+            "nombre": "Caf\u00c3\u00a9 de Puebla",
+            "descripcion": "Caf\u00c3\u00a9 con sabor a nuez y un toque equilibrado, originario del estado de Puebla.",
+            "precio": 9.0,
+            "cantidad": 121
+        },
+        {
+            "id": 6,
+            "nombre": "Caf\u00c3\u00a9 de Oaxaca",
+            "descripcion": "Caf\u00c3\u00a9 con un sabor robusto y notas de cacao, t\u00c3\u00adpico de la regi\u00c3\u00b3n monta\u00c3\u00b1osa de Oaxaca.",
+            "precio": 12.0,
+            "cantidad": 110
+        },
+        {
+            "id": 7,
+            "nombre": "Caf\u00c3\u00a9 de Jalisco",
+            "descripcion": "Caf\u00c3\u00a9 con cuerpo medio y notas a caramelo, producido en el estado de Jalisco.",
+            "precio": 10.5,
+            "cantidad": 140
+        },
+        {
+            "id": 8,
+            "nombre": "Caf\u00c3\u00a9 de Guerrero",
+            "descripcion": "Caf\u00c3\u00a9 suave con un perfil ligero, cultivado en las tierras altas de Guerrero.",
+            "precio": 11.5,
+            "cantidad": 90
+        },
+        {
+            "id": 9,
+            "nombre": "Caf\u00c3\u00a9 de San Luis Potos\u00c3\u00ad",
+            "descripcion": "Caf\u00c3\u00a9 con un sabor floral y suave, originario de San Luis Potos\u00c3\u00ad.",
+            "precio": 12.5,
+            "cantidad": 100
+        },
+        {
+            "id": 10,
+            "nombre": "Caf\u00c3\u00a9 de Nayarit",
+            "descripcion": "Caf\u00c3\u00a9 con un perfil suave y ligeramente \u00c3\u00a1cido, t\u00c3\u00adpico de la regi\u00c3\u00b3n de Nayarit.",
+            "precio": 11.0,
+            "cantidad": 120
+        }
+    ]
+}
